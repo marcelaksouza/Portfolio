@@ -1,0 +1,32 @@
+/* Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+*{
+    font-family: 'Anonymous Pro', monospace;
+}
+
+.app-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1vh solid #282c34
+  }
+
+
+.logo-description-headind{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+       
+}
+
+.logo-description{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #39FF14;
+    
+}
