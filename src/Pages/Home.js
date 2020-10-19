@@ -12,10 +12,10 @@ export class Home extends Component {
                 <h1 className='logo-description-headind'>Hi, I am Marcela </h1>
                 <p className='logo-description'></p>
                 <Typewriter className='logo-description' 
-                string={'This is an example of typewriting 😄'}
+                string={'I am a developer'}
                 cursor='_'
-                delay={100} 
-                stopBlinkinOnComplete/>
+                delay={75} 
+                />
             </div>
         )
     }
