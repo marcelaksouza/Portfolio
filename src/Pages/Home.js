@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Typewriter } from 'react-typewriting-effect'
 
 import './home.css'
-import Logo from './flower.jpg'
+import Logo from '../Images/among_us_profile.png'
 
 export class Home extends Component {
     render() {
