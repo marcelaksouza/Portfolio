@@ -11,7 +11,7 @@ magenta from image #88006B*/
 }
 
 .app-logo {
-    display: block;
+    display: flex;
     margin: auto;
     max-width: 200px;
     height: auto;

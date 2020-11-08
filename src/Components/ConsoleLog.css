@@ -1,12 +1,42 @@
 /* change cursor */
 
-.description{
+.consoleLog{
     margin:auto;
     margin-top: 30px;
-    /* text-align: center; */
-    background-color: rgba(0,0,0,0.8);
     max-width: 500px;
     width: 50%;
     height: 300px;
     border: 1px solid #018574;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.consoleTop{
+    padding: 2px;
+    background-color: #018574;
+    
+}
+
+.left{
+    margin: 3px;
+}
+
+.text{
+    color: #FFFFFF;
+}
+
+.right{
+   
+    float: right; 
+    
+}
+
+.description{
+    /* margin:auto;
+    margin-top: 30px; */
+    /* text-align: center; */
+    /* background-color: rgba(0,0,0,0.8); */
+    /* max-width: 500px;
+    width: 50%;
+    height: 300px;
+    border: 1px solid #018574; */
 }
