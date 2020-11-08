@@ -12,6 +12,7 @@ function App() {
       <Router>
         <SideBar />
         <Switch>
+          {/* add the routes to the pages */}
           <Route path="/" exact component={Home}/>
           <Route path="/aboutMe" exact component={AboutMe}/>
           
